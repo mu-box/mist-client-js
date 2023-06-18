@@ -1,12 +1,12 @@
 {
   "name": "mist-client-js",
   "version": "0.0.4",
-  "description": "A javascript client connecting to and consuming nanobox/mist messages",
+  "description": "A javascript client connecting to and consuming mu-box/mist messages",
   "author": "Steve Domino <sdomino@pagodabox.com>",
   "contributors": [],
   "repository": {
     "type": "git",
-    "url": "https://github.com/nanopack/mist-client-js"
+    "url": "https://github.com/mu-box/mist-client-js"
   },
   "devDependencies": {
     "gulp": "^3.9.1",

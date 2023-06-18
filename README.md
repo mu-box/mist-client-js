@@ -1,4 +1,4 @@
-The mist javascript client provides a simple API for connecting to and communicating with [mist](https://github.com/nanopack/mist). As the client receives messages from mist it parses and formats the data from the message and then fires corresponding events containing that data that can be handled however you wish.
+The mist javascript client provides a simple API for connecting to and communicating with [mist](https://github.com/mu-box/mist). As the client receives messages from mist it parses and formats the data from the message and then fires corresponding events containing that data that can be handled however you wish.
 
 ## New Client
 
@@ -197,6 +197,6 @@ class exampleMistAdapter
 
 ## Contributing
 
-Contributions to the mist js client are welcome and encouraged. This is a [Nanobox](https://nanobox.io) project and contributions should follow the [Nanobox Contribution Process & Guidelines](https://docs.nanobox.io/contributing/).
+Contributions to the mist js client are welcome and encouraged. This is a [Microbox](https://microbox.cloud) project and contributions should follow the [Microbox Contribution Process & Guidelines](https://docs.microbox.cloud/contributing/).
 
-[![open source](http://nano-assets.gopagoda.io/open-src/nanobox-open-src.png)](http://nanobox.io/open-source)
+[![open source](http://microbox.rocks/assets/open-src/microbox-open-src.png)](http://microbox.cloud/open-source)
